@@ -16,7 +16,7 @@
 
 - 🎯 I'm a **Java Full Stack Developer** with hands-on experience in **Spring Boot, Microservices, React.js, MongoDB, AWS, Docker**, and more.
 - 💡 I love building scalable web apps and APIs that solve real-world problems.
-- 📚I am a  **MCA** graduacte from **IMIT Cuttack** (2022–2024).
+- 📚I am a  **MCA** graduate from **IMIT Cuttack** (2022–2024).
 - 🧠 Trained at **JSPIDER Training Center, Hyderabad** in Java Full Stack Development.
 - 🔥 I’m currently working on a **state-level project (IES)** for the **State Government of Rhode Island**.
 
